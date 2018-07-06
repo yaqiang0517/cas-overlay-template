@@ -1,6 +1,3 @@
-CAS Overlay Template
-============================
-
 Generic CAS WAR overlay to exercise the latest versions of CAS. This overlay could be freely used as a starting template for local CAS war overlays. The CAS services management overlay is available [here](https://github.com/apereo/cas-services-management-overlay).
 
 # Versions
@@ -99,3 +96,6 @@ Invokes the CAS Command Line Shell. For a list of commands either use no argumen
 ```bash
 ./build.sh cli
 ```
+
+# cas-overlay-template
+改造cas-overlay-template使用https mysql登录
